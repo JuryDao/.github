@@ -1,10 +1,28 @@
-![  ](https://github.com/AjnasNB/AjnasNB/blob/main/banner.png)
+
 <h1 align="center">JURYDAO</h1>
 <h3 align="center">JURY DAO is a decentralized organization that leverages blockchain technology to address the shortcomings of the traditional centralized judicial system.</h3>
 <div align="center"><img src="C:\Users\TANU SHREE\Downloads\logo Jury Dao.png" /></div>
 
-Introduction
+<h2 align="center">INTRODUCTION</h2>
+
 Welcome to JURYDAO, a Legal Decentralised Organisation committed to revolutionizing the jury selection process for court hearings under the US State of Law. Our innovative approach combines decentralization, anonymity, and transparency to ensure an unbiased and fair jury selection
+
+<h2 align="center">What is JURY DAO?</h2>
+
+JURY DAO is a decentralized organization that leverages blockchain technology to address the shortcomings of the traditional centralized judicial system. We provide a solution for the unbiased and anonymous selection of a jury, ensuring a fair trial based solely on the facts of the case
+
+
+<h2 align="center">Our Approach</h2>
+
+Our unique hybrid approach combines both off-chain and on-chain elements in the court proceeding process. The jurors in our system are NFT-Token holders, and dynamic governance is implemented based on the time frame and nature of each case. This approach not only ensures transparency but also rewards the system with an unbiased jury selection.
+
+
+<h2 align="center">Issues with the Current System</h2>
+
+The current centralized judicial system faces challenges such as tampering in the selection of the jury and a lack of transparency in judgment. JURY DAO addresses these issues by providing a secure and transparent platform for selecting an unbiased jury that can focus solely on the facts of the case without influence from involved parties
+
+
+
 
 
 ## 🌐 Socials:
