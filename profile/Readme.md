@@ -3,7 +3,7 @@
 <h3 align="center">JURY DAO is a decentralized organization that leverages blockchain technology to address the shortcomings of the traditional centralized judicial system.</h3>
 <div align="center"><img src="C:\Users\TANU SHREE\Downloads\logo Jury Dao.png" /></div>
 
-<h2 align="center">INTRODUCTION</h2>
+<h2>INTRODUCTION</h2>
 
 Welcome to JURYDAO, a Legal Decentralised Organisation committed to revolutionizing the jury selection process for court hearings under the US State of Law. Our innovative approach combines decentralization, anonymity, and transparency to ensure an unbiased and fair jury selection
 
