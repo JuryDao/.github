@@ -21,18 +21,14 @@ Our unique hybrid approach combines both off-chain and on-chain elements in the 
 
 The current centralized judicial system faces challenges such as tampering in the selection of the jury and a lack of transparency in judgment. JURY DAO addresses these issues by providing a secure and transparent platform for selecting an unbiased jury that can focus solely on the facts of the case without influence from involved parties
 
-<h2>HOW WE WORK</h2>
+<h2>How We Work</h2>
 
 The current centralized judicial system faces challenges such as tampering in the selection of the jury and a lack of transparency in judgment. JURY DAO addresses these issues by providing a secure and transparent platform for selecting an unbiased jury that can focus solely on the facts of the case without influence from involved parties
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JURY DAO Workflow</title>
-</head>
-<body>
 
     <!-- Onboard Members to Our DAO -->
     <section>
@@ -85,9 +81,6 @@ The current centralized judicial system faces challenges such as tampering in th
             <li>Close the proposal after the voting period ends.</li>
         </ol>
     </section>
-
-</body>
-</html>
 
 
 
