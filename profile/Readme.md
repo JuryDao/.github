@@ -1,7 +1,7 @@
 
 <h1 align="center">JURYDAO</h1>
 <h3 align="center">JURY DAO is a decentralized organization that leverages blockchain technology to address the shortcomings of the traditional centralized judicial system. We provide the solution to selection of an unbiased and anonymous jury for a court hearing under the US State of Law.</h3>
-<div align="center"><img src="C:\Users\TANU SHREE\Downloads\logo Jury Dao.png" /></div>
+<div align="center"><img src="https://github.com/JuryDao/Frontend/blob/main/logo%20Jury%20Dao.png" /></div>
 
 <h2>INTRODUCTION</h2>
 
