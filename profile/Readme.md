@@ -1,28 +1,10 @@
 ![  ](https://github.com/AjnasNB/AjnasNB/blob/main/banner.png)
 <h1 align="center">JURYDAO</h1>
 <h3 align="center">JURY DAO is a decentralized organization that leverages blockchain technology to address the shortcomings of the traditional centralized judicial system.</h3>
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=19&pause=1000&color=47F729&width=435&lines=Web+developer++Enterpreneur+and+Freelancer" alt="Typing SVG" /></div>
+<div align="center"><img src="C:\Users\TANU SHREE\Downloads\logo Jury Dao.png" /></div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajnasnb&label=Profile%20views&color=0e75b6&style=flat" alt="ajnasnb" /> </p>
-
-
-- 🔭 I’m currently working on **opensource projects**
-
-- 🌱 I’m currently learning **web2 and web3 frameworks**
-
-- 👯 I’m looking to collaborate on **different django projects**
-
-- 🤝 I’m learning and looking for help with **various web3 frameworks**
-
-- 👨‍💻 Know me at https://ajnasnb.me
-
-- 📝 I sometimes write articles on blog.ajnasnb.me
-
-- 💬 Ask me about **javascript ,react , nodejs**
-
-- 📫 How to reach me **ajnasnb@gmail.com**
-
-- ⚡ Fun fact: **I'm not at all funny😉😉**
+Introduction
+Welcome to JURYDAO, a Legal Decentralised Organisation committed to revolutionizing the jury selection process for court hearings under the US State of Law. Our innovative approach combines decentralization, anonymity, and transparency to ensure an unbiased and fair jury selection
 
 
 ## 🌐 Socials:
