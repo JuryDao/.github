@@ -7,19 +7,89 @@
 
 Welcome to JURYDAO, a Legal Decentralised Organisation committed to revolutionizing the jury selection process for court hearings under the US State of Law. Our innovative approach combines decentralization, anonymity, and transparency to ensure an unbiased and fair jury selection
 
-<h2 align="center">What is JURY DAO?</h2>
+<h2>What is JURY DAO?</h2>
 
 JURY DAO is a decentralized organization that leverages blockchain technology to address the shortcomings of the traditional centralized judicial system. We provide a solution for the unbiased and anonymous selection of a jury, ensuring a fair trial based solely on the facts of the case
 
 
-<h2 align="center">Our Approach</h2>
+<h2>Our Approach</h2>
 
 Our unique hybrid approach combines both off-chain and on-chain elements in the court proceeding process. The jurors in our system are NFT-Token holders, and dynamic governance is implemented based on the time frame and nature of each case. This approach not only ensures transparency but also rewards the system with an unbiased jury selection.
 
 
-<h2 align="center">Issues with the Current System</h2>
+<h2>Issues with the Current System</h2>
 
 The current centralized judicial system faces challenges such as tampering in the selection of the jury and a lack of transparency in judgment. JURY DAO addresses these issues by providing a secure and transparent platform for selecting an unbiased jury that can focus solely on the facts of the case without influence from involved parties
+
+<h2>HOW WE WORK</h2>
+
+The current centralized judicial system faces challenges such as tampering in the selection of the jury and a lack of transparency in judgment. JURY DAO addresses these issues by providing a secure and transparent platform for selecting an unbiased jury that can focus solely on the facts of the case without influence from involved parties
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JURY DAO Workflow</title>
+</head>
+<body>
+
+    <!-- Onboard Members to Our DAO -->
+    <section>
+        <h2>Onboard Members to Our DAO</h2>
+        <ol>
+            <li>Invite members to join JURY DAO.</li>
+            <li>Conduct verification through Anon Aadhar.</li>
+            <li>Direct members to the communication channel.</li>
+        </ol>
+    </section>
+
+    <!-- Summon for Jury Duty -->
+    <section>
+        <h2>Summon for Jury Duty</h2>
+        <ol>
+            <li>Notify selected members for jury duty.</li>
+            <li>Guide them to a page to provide details and mint a soul-bound NFT.</li>
+        </ol>
+    </section>
+
+    <!-- Applicability for Governance -->
+    <section>
+        <h2>Applicability for Governance</h2>
+        <p>Members with minted NFTs become eligible for the governance body.</p>
+    </section>
+
+    <!-- Governance Body Selection -->
+    <section>
+        <h2>Governance Body Selection</h2>
+        <ol>
+            <li>Use Chainlink VRF to write the governor contract.</li>
+            <li>Select seven governors for the case.</li>
+        </ol>
+    </section>
+
+    <!-- Create Proposal and Notification -->
+    <section>
+        <h2>Create Proposal and Notification</h2>
+        <ol>
+            <li>Formulate a proposal for the case.</li>
+            <li>Notify governors with case details.</li>
+        </ol>
+    </section>
+
+    <!-- Voting Process -->
+    <section>
+        <h2>Voting Process</h2>
+        <ol>
+            <li>Direct governors to the proposal on Snapshot for voting.</li>
+            <li>Close the proposal after the voting period ends.</li>
+        </ol>
+    </section>
+
+</body>
+</html>
+
+
 
 
 
