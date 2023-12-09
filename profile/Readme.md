@@ -1,6 +1,6 @@
 ![  ](https://github.com/AjnasNB/AjnasNB/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Ajnas N B</h1>
-<h3 align="center">A passionate Engineer from India</h3>
+<h1 align="center">JURYDAO</h1>
+<h3 align="center">JURY DAO is a decentralized organization that leverages blockchain technology to address the shortcomings of the traditional centralized judicial system.</h3>
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=19&pause=1000&color=47F729&width=435&lines=Web+developer++Enterpreneur+and+Freelancer" alt="Typing SVG" /></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajnasnb&label=Profile%20views&color=0e75b6&style=flat" alt="ajnasnb" /> </p>
