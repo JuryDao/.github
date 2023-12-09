@@ -26,61 +26,38 @@ The current centralized judicial system faces challenges such as tampering in th
 The current centralized judicial system faces challenges such as tampering in the selection of the jury and a lack of transparency in judgment. JURY DAO addresses these issues by providing a secure and transparent platform for selecting an unbiased jury that can focus solely on the facts of the case without influence from involved parties
 
 
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JURY DAO Workflow</title>
+   # JURY DAO Workflow
 
-    <!-- Onboard Members to Our DAO -->
-    <section>
-        <h2>Onboard Members to Our DAO</h2>
-        <ol>
-            <li>Invite members to join JURY DAO.</li>
-            <li>Conduct verification through Anon Aadhar.</li>
-            <li>Direct members to the communication channel.</li>
-        </ol>
-    </section>
+## Onboard Members to Our DAO
 
-    <!-- Summon for Jury Duty -->
-    <section>
-        <h2>Summon for Jury Duty</h2>
-        <ol>
-            <li>Notify selected members for jury duty.</li>
-            <li>Guide them to a page to provide details and mint a soul-bound NFT.</li>
-        </ol>
-    </section>
+1. Invite members to join JURY DAO.
+2. Conduct verification through Anon Aadhar.
+3. Direct members to the communication channel.
 
-    <!-- Applicability for Governance -->
-    <section>
-        <h2>Applicability for Governance</h2>
-        <p>Members with minted NFTs become eligible for the governance body.</p>
-    </section>
+## Summon for Jury Duty
 
-    <!-- Governance Body Selection -->
-    <section>
-        <h2>Governance Body Selection</h2>
-        <ol>
-            <li>Use Chainlink VRF to write the governor contract.</li>
-            <li>Select seven governors for the case.</li>
-        </ol>
-    </section>
+1. Notify selected members for jury duty.
+2. Guide them to a page to provide details and mint a soul-bound NFT.
 
-    <!-- Create Proposal and Notification -->
-    <section>
-        <h2>Create Proposal and Notification</h2>
-        <ol>
-            <li>Formulate a proposal for the case.</li>
-            <li>Notify governors with case details.</li>
-        </ol>
-    </section>
+## Applicability for Governance
 
-    <!-- Voting Process -->
-    <section>
-        <h2>Voting Process</h2>
-        <ol>
-            <li>Direct governors to the proposal on Snapshot for voting.</li>
-            <li>Close the proposal after the voting period ends.</li>
-        </ol>
-    </section>
+Members with minted NFTs become eligible for the governance body.
+
+## Governance Body Selection
+
+1. Use Chainlink VRF to write the governor contract.
+2. Select seven governors for the case.
+
+## Create Proposal and Notification
+
+1. Formulate a proposal for the case.
+2. Notify governors with case details.
+
+## Voting Process
+
+1. Direct governors to the proposal on Snapshot for voting.
+2. Close the proposal after the voting period ends.
+
 
 
 
